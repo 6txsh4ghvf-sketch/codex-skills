@@ -1,0 +1,7 @@
+interface:
+  display_name: "PPT Background Image Director"
+  short_description: "Designs clean, text-friendly Keynote-style PPT background images."
+  default_prompt: "Use $ppt-background-image-director to create or select PPT background images that support editable Chinese slide text."
+
+policy:
+  allow_implicit_invocation: true
